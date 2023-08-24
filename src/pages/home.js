@@ -221,8 +221,7 @@ export default function Home() {
             </Typography>
             <Typography textAlign={"center"}>
               <br />
-              It is completely free to use, but I'm always thankful for
-              donations😁
+              It is completely free to use😁
             </Typography>
             <Typography variant="caption" textAlign={"center"}>
               <br />
