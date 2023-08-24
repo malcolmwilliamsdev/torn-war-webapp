@@ -224,6 +224,10 @@ export default function Home() {
               It is completely free to use, but I'm always thankful for
               donations😁
             </Typography>
+            <Typography variant="caption" textAlign={"center"}>
+              <br />
+              (All dollar values are rounded by flooring)
+            </Typography>
 
             <img
               src="capture.png"
