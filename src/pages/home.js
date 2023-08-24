@@ -216,8 +216,8 @@ export default function Home() {
               <Link href="https://www.torn.com/profiles.php?XID=2866181">
                 Sixpathsmac [2866181]
               </Link>{" "}
-              to ease the pain that faction leaders feel after a war has ended
-              and it is time to pay up to 100 people.
+              to ease the pain after a war has ended and it is time to pay up to
+              100 people.
             </Typography>
 
             <img
