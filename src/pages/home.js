@@ -216,8 +216,13 @@ export default function Home() {
               <Link href="https://www.torn.com/profiles.php?XID=2866181">
                 Sixpathsmac [2866181]
               </Link>{" "}
-              to ease the pain after a war has ended and it is time to pay up to
-              100 people.
+              for the horrible moment after a war has ended and it is time to
+              pay up to 100 people.
+            </Typography>
+            <Typography textAlign={"center"}>
+              <br />
+              It is completely free to use, but I'm always thankful for
+              donations😁
             </Typography>
 
             <img
