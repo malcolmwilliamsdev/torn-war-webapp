@@ -43,7 +43,7 @@ export default function Home() {
   const handleCalculate = () => {
     const moneyValue = payType === "Fixed" ? fixedPay : totalMoney;
     if (parseInt(moneyValue) <= 0) {
-      setMoneyError("No money entered");
+      setMoneyError("Broke ass bitch");
     } else {
       setMoneyError(null);
       setShowPayout(true);
